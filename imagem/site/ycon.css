@@ -1,0 +1,17 @@
+.ycon{ background:url("ycon.png") top left no-repeat; }
+.ycon-pai-aluno{ width:129px; height:129px; background-position:-1px -1px; }
+.ycon-gestor-escolar{ width:128px; height:128px; background-position:-1px -131px; }
+.ycon-agente-publico{ width:127px; height:128px; background-position:-1px -260px; }
+.ycon-riscos-left-white{ width:40px; height:82px; background-position:-1px -389px; }
+.ycon-riscos-left{ width:39px; height:82px; background-position:-42px -389px; }
+.ycon-riscos-right-white{ width:39px; height:81px; background-position:-82px -389px; }
+.ycon-riscos-right{ width:39px; height:81px; background-position:-1px -472px; }
+.ycon-aspas{ width:64px; height:50px; background-position:-41px -472px; }
+.ycon-riscos-right-sm{ width:24px; height:50px; background-position:-106px -472px; }
+.ycon-riscos-left-sm{ width:24px; height:50px; background-position:-1px -554px; }
+.ycon-ribbon{ width:134px; height:39px; background-position:-1px -605px; }
+.ycon-losango{ width:25px; height:25px; background-position:-26px -554px; }
+.ycon-plus-white{ width:19px; height:20px; background-position:-52px -554px; }
+.ycon-arrow-up-white{ width:26px; height:16px; background-position:-72px -554px; }
+.ycon-arrow-down-white{ width:27px; height:16px; background-position:-99px -554px; }
+
